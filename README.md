@@ -24,7 +24,6 @@ To run the SQL files in this project, follow these steps:
 
    **PowerBI_Customer Analysis.pbix**
 
-
 # Fuzzy Match "Levenshteins Distance Algorithm" 🔑
 
 Sql function code as follows:
@@ -75,18 +74,17 @@ BEGIN
 END
 ```
 
-
-# DAX Code - Measures and Calculated Columns 🤖
-
-DAX speed and power used to build measures and manipulate columns to harness data and extract meaniful insights.
-
 # SQL Server Connection 🛢 🐘
 
-Large datasets stored, transformed and manipulated in a specified database in SQL Server. SQL views created from the large dataset to segment high quality and highly interactive tweets for more robust analysis.
+Data stored, transformed and manipulated in a specified database in SQL Server. Live Connection created from database to PowerBI desktop for instant analysis. 
 
 # PowerBI Visualisation 📊
 
 The dataframe was explored through dynamic PowerBI Dahsboard
+
+# DAX Code - Measures and Calculated Columns 🤖
+
+DAX speed and power used to build measures and manipulate columns to harness data and extract meaniful insights.
 
 # Files
 
