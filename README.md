@@ -1,6 +1,5 @@
 
-<object data="https://github.com/kevkillion/PowerBI_Customer_Analytics/blob/main/PowerBI_Dynamic%20Customer%20Analysis.pdf" type="application/pdf">
-</object>
+<iframe width="100%" height="800" src="https://github.com/kevkillion/PowerBI_Customer_Analytics/blob/main/PowerBI_Dynamic%20Customer%20Analysis.pdf">
 
 # **PowerBI Customer Analysis: ~ Data Engineering ~ DAX ~ SQL**
 
