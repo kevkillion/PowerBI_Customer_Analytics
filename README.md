@@ -1,4 +1,4 @@
-![PowerBI Dashboard]([https://github.com/kevkillion/PowerBI_Customer_Analytics/blob/main/PowerBI_Dynamic%20Customer%20Analysis.pdf])
+![]([https://github.com/kevkillion/PowerBI_Customer_Analytics/blob/main/PowerBI_Dynamic%20Customer%20Analysis.pdf])
 
 
 # **PowerBI Customer Analysis: ~ Data Engineering ~ DAX ~ SQL**
