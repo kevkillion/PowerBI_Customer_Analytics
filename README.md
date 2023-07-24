@@ -91,8 +91,8 @@ DAX speed and power used to build measures and manipulate columns to harness dat
 The following files were used in this project:
 
 - README.md: Description file outlining the project
-- PowerBI_DynamicCustomer Analysis.pbix: dynamic view of dashboard
-- PowerBI_DynamicCustomer Analysis.pdf: static view of dashboard
+- PowerBI_Dynamic Customer Analysis.pbix: dynamic view of dashboard
+- PowerBI_Dynamic Customer Analysis.pdf: static view of dashboard
 - Join.sql: SQL script joining datasets
 
 
