@@ -1,6 +1,6 @@
 Image
 
-# **PowerBI Dynamic Customer Analysis**
+# **PowerBI Customer Analysis**
 # - Data Engineering, DAX, SQL Server
 
 This project demonstrates the power of SQL Server functions in connection with PowerBI visualisations to engineer and analyze large datasets at speed and with accuracy. It is also important to point out the high-powered Levenshteins algorithm used in this project showing the capability of accurately joining datasets without a unique identifier present in both. DAX code was also used to build measures and calculated columns.
