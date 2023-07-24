@@ -1,5 +1,5 @@
 
-[embed]https://github.com/kevkillion/PowerBI_Customer_Analytics/blob/main/PowerBI_Dynamic%20Customer%20Analysis.pdf[/embed]
+[embed](https://github.com/kevkillion/PowerBI_Customer_Analytics/blob/main/PowerBI_Dynamic%20Customer%20Analysis.pdf)[/embed]
 
 # **PowerBI Customer Analysis: ~ Data Engineering ~ DAX ~ SQL**
 
